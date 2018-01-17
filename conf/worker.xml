@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <workerId>0</workerId>
+    <port>12009</port>
+    <path>/nextId</path>
+</configuration>
