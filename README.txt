@@ -17,3 +17,7 @@ Usage：
             id, err := iw.NextId()
             // ...
         }
+
+Attention!!!
+
+    different worker, different workerId
