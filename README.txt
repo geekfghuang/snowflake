@@ -11,9 +11,9 @@ Usage：
 
         func main() {
             worker, err := NewWorker(0)
-        	if err != nil {
+            if err != nil {
                 // ...
-        	}
-        	id, err := iw.NextId()
-        	// ...
+            }
+            id, err := iw.NextId()
+            // ...
         }
