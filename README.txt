@@ -14,7 +14,7 @@ Usage：
             if err != nil {
                 // ...
             }
-            id, err := iw.NextId()
+            id, err := worker.NextId()
             // ...
         }
 
